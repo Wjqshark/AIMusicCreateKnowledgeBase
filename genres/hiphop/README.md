@@ -86,3 +86,11 @@ mellow, study music, no lyrics, sampled piano
 - 和弦进行 → `../../theory/chord_progressions.md`
 - StylePrompt 完整模版 → `../../templates/style_prompts/INDEX.md`
 - 歌词模版（说唱） → `../../templates/lyrics/INDEX.md`
+
+---
+
+## Rap 学习与押字资源
+
+- Rap 作曲 / 乐理 / 押字资料（新增）→ `./rap_作曲_押字资料.md`
+- 中文 Rap 押字规则与国内节奏指导 → `./中文Rap_押字规则与节奏指导.md`
+- 中文 Rap 常用韵脚表 + 节奏模板例句 → `./中文Rap_常用韵脚表与节奏模板.md`
