@@ -51,6 +51,7 @@
 第5优先级: templates/style_prompts/<模版>.md — StylePrompt
 第6优先级: templates/lyrics/<模版>.md — 歌词结构
 第7优先级: theory/*.md — 深度理论（必要时）
+第8优先级: tools/suno_v5.5_guide.md — Suno 创作平台指南（涉及 Suno 操作时）
 ```
 
 ---
@@ -80,7 +81,30 @@
 
 ---
 
-## 五、知识库扩展指南
+## 六、AI 音乐平台的集成
+
+### Suno v5.5 集成指南
+
+如需指导用户在 **Suno.ai** 平台上使用本知识库进行创作，请参考：
+
+**文件：** [`tools/suno_v5.5_guide.md`](suno_v5.5_guide.md)
+
+**内容涵盖：**
+- Suno v5.5 三大核心功能（Voices、Custom Models、My Taste）
+- 完整的歌词输入工作流（自写、ReMi 生成、混合创作）
+- Song Editor 编辑工具详解（Replace Section、Extend、Crop）
+- "Magic"功能的实际解读（AI 智能化、个性化定制等）
+- 与本知识库配套的创作方案
+
+**推荐搭配：**
+1. 用户得到本知识库内的 StylePrompt + 歌词模版
+2. 进入 Suno 创作页，按 suno_v5.5_guide.md 的步骤
+3. 在 Custom Mode 中填入参数和歌词
+4. 使用 ReMi、Replace Section 等工具精调
+
+---
+
+## 七、知识库扩展指南
 
 ### 添加新音乐风格
 ```
@@ -121,7 +145,7 @@
 
 ---
 
-## 六、常见 LLM 误用纠正
+## 八、常见 LLM 误用纠正
 
 | 误用行为 | 正确做法 |
 |---|---|
@@ -133,7 +157,7 @@
 
 ---
 
-## 七、版本与维护
+## 九、版本与维护
 
 - 本知识库采用 Git 版本管理
 - 新增内容提交 Pull Request，更新对应 INDEX.md
