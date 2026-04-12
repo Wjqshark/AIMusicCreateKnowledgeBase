@@ -15,6 +15,7 @@
 | [`INDEX.md`](./INDEX.md) | 🗺️ 主导航索引（LLM 入口，路由表）|
 | [`QUICK_START.md`](./QUICK_START.md) | ⚡ LLM 快速操作指南 |
 | [`tools/llm_guide.md`](./tools/llm_guide.md) | 🔧 集成说明（System Prompt 示例）|
+| [`tools/suno_v5.5_guide.md`](./tools/suno_v5.5_guide.md) | 🎤 Suno.ai 平台使用指南（v4.5 vs v5.5 对比、歌词进阶技巧）|
 
 ---
 
@@ -43,7 +44,9 @@ AIMusicCreateKnowledgeBase/
 │
 ├── theory/               ← 音乐理论（和弦进行、音阶、歌曲结构）
 ├── moods/                ← 5 种情绪/场景映射
-└── tools/                ← LLM 集成说明
+└── tools/                ← 集成与平台指南
+   ├── llm_guide.md       LLM 集成与扩展指南
+   └── suno_v5.5_guide.md Suno.ai 创作平台完全指南
 ```
 
 ---
