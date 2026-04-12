@@ -31,7 +31,7 @@ AIMusicCreateKnowledgeBase/
 │   ├── classical/        古典
 │   ├── jazz/             爵士
 │   ├── edm/              电子舞曲
-│   ├── hiphop/           嘻哈/说唱
+│   ├── hiphop/           嘻哈/Rap（Hip-Hop & Rap）
 │   ├── rnb/              R&B
 │   ├── folk/             民谣
 │   ├── country/          乡村

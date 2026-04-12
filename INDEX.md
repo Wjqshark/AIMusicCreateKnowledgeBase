@@ -29,7 +29,7 @@ AIMusicCreateKnowledgeBase/
 │   ├── classical/               ← 古典
 │   ├── jazz/                    ← 爵士
 │   ├── edm/                     ← 电子舞曲
-│   ├── hiphop/                  ← 嘻哈/说唱
+│   ├── hiphop/                  ← 嘻哈/Rap（Hip-Hop & Rap）
 │   ├── rnb/                     ← R&B/灵魂乐
 │   ├── folk/                    ← 民谣
 │   ├── country/                 ← 乡村
@@ -70,7 +70,7 @@ AIMusicCreateKnowledgeBase/
 | 古典、钢琴曲、弦乐、交响 | `genres/classical/README.md` |
 | 爵士、jazz、即兴、蓝调 | `genres/jazz/README.md` |
 | 电音、EDM、舞曲、House、Trance | `genres/edm/README.md` |
-| 嘻哈、hip-hop、说唱、trap、drill | `genres/hiphop/README.md` |
+| 嘻哈、hiphop、hip-hop、rap、说唱、trap、drill | `genres/hiphop/README.md` |
 | R&B、灵魂乐、Soul、Neo-Soul | `genres/rnb/README.md` |
 | 民谣、folk、吉他弹唱、治愈 | `genres/folk/README.md` |
 | 乡村、country、Nashville | `genres/country/README.md` |

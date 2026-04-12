@@ -1,4 +1,4 @@
-# 🎤 嘻哈/说唱 (Hip-Hop)
+# 🎤 嘻哈/Rap（Hip-Hop & Rap）
 
 ## 核心特征
 

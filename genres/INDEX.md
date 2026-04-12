@@ -13,7 +13,7 @@
 | Classical | 古典 | 40–180 | 钢琴、弦乐、交响、器乐 | `classical/README.md` |
 | Jazz | 爵士 | 80–200 | 即兴、蓝调音符、复杂和声 | `jazz/README.md` |
 | EDM | 电子舞曲 | 120–175 | 合成器、Drop、House、Trance | `edm/README.md` |
-| Hip-Hop | 嘻哈/说唱 | 70–100 | Trap、Drill、采样、Flow | `hiphop/README.md` |
+| Hip-Hop & Rap | 嘻哈/Rap/说唱 | 70–100 | Trap、Drill、采样、Flow、押字 | `hiphop/README.md` |
 | R&B | 节奏蓝调 | 60–100 | Soul、Groove、性感、Neo-Soul | `rnb/README.md` |
 | Folk | 民谣 | 70–120 | 木吉他、叙事、治愈、自然 | `folk/README.md` |
 | Country | 乡村 | 80–140 | Nashville、班卓琴、故事、美国南方 | `country/README.md` |
