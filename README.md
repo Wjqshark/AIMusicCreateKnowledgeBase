@@ -1,0 +1,2 @@
+# AIMusicCreateKnowledgeBase
+面向大模型的用于AI歌曲创作的读取的可扩展的音乐知识库
