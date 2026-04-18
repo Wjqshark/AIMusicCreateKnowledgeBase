@@ -22,6 +22,7 @@
 | `jazz_smooth.md` | Smooth Jazz | 浪漫/放松 | 可选 |
 | `chinese_pop.md` | 华语流行 | 通用 | 中文人声 |
 | `epic_orchestral.md` | 史诗交响 | 激昂/电影感 | 无人声 |
+| `choral_symphonic.md` | 交响大合唱 | 庄严/史诗/号召 | 混声合唱 |
 
 ---
 

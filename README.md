@@ -25,7 +25,7 @@ AIMusicCreateKnowledgeBase/
 ├── INDEX.md              ← LLM 主入口（路由表）
 ├── QUICK_START.md        ← 操作流程指南
 │
-├── genres/               ← 10 种音乐风格知识
+├── genres/               ← 11 种音乐风格知识
 │   ├── pop/              流行
 │   ├── rock/             摇滚
 │   ├── classical/        古典
@@ -33,6 +33,7 @@ AIMusicCreateKnowledgeBase/
 │   ├── edm/              电子舞曲
 │   ├── hiphop/           嘻哈/Rap（Hip-Hop & Rap）
 │   ├── rnb/              R&B
+│   ├── choral/           合唱（交响大合唱/多声部）
 │   ├── folk/             民谣
 │   ├── country/          乡村
 │   └── latin/            拉丁
@@ -52,6 +53,7 @@ AIMusicCreateKnowledgeBase/
 
 - ✅ 流行情歌、悲伤失恋歌、励志歌曲
 - ✅ 电子舞曲、嘻哈说唱、R&B 灵魂乐
+- ✅ 交响大合唱、史诗合唱、多声部群体人声
 - ✅ 中国民谣、国风古风音乐
 - ✅ 器乐配乐（新古典、爵士、史诗交响）
 - ✅ 多语言（中文/English）歌词创作

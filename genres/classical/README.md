@@ -92,3 +92,4 @@ strings, brass, choir, 90 BPM, no lyrics
 - 音阶与调式 → `../../theory/scales.md`
 - 情绪修饰 → `../../moods/`
 - StylePrompt 完整模版 → `../../templates/style_prompts/INDEX.md`
+- 交响大合唱（独立风格）→ `../choral/README.md`
