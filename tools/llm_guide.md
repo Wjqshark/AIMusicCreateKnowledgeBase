@@ -39,7 +39,34 @@
 
 ---
 
-## 三、知识库文件读取优先级
+## 三、基于 Harness 的 Skill 调用入口（推荐）
+
+对于支持工具调用（Tool Use）或技能注册（Skill Registration）的 Agent 框架，推荐优先读取：
+
+**文件：** [`tools/skill_harness.md`](skill_harness.md)
+
+本文件以 **Harness 模式** 定义了知识库对外暴露的所有可调用技能（Skill），包括：
+
+| 技能 ID | 核心用途 |
+|---|---|
+| `skill_generate_music_plan` | 根据风格+情绪生成完整音乐创作方案（顶层综合技能） |
+| `skill_lookup_genre` | 检索指定风格的核心参数与编曲规则 |
+| `skill_lookup_mood` | 检索情绪对应的编曲建议与风格映射 |
+| `skill_generate_style_prompt` | 生成可直接用于 Suno / Udio 的英文 StylePrompt |
+| `skill_generate_lyrics_template` | 生成带段落标注的歌词结构框架或完整歌词 |
+| `skill_lookup_theory` | 查询和弦进行、音阶调式、歌曲结构等理论知识 |
+| `skill_suno_workflow` | 指导在 Suno v5.5 平台上完成完整创作流程 |
+
+每个技能均定义了：`trigger_keywords`（意图匹配）、`inputs`（入参 Schema）、`steps`（知识库读取步骤）、`output_schema`（输出格式）。
+
+**适用场景：**
+- LangChain / AutoGen 等 Agent 框架：读取 skill_harness.md 后注册为工具
+- GitHub Copilot Extensions：按技能 Schema 映射为 Extension 能力
+- System Prompt 集成：将 skill_harness.md 链接嵌入 Prompt，让 LLM 自主匹配技能
+
+---
+
+## 四、知识库文件读取优先级
 
 当 LLM 面临不确定性时，按以下优先级读取文件：
 
@@ -56,7 +83,7 @@
 
 ---
 
-## 四、不同 AI 平台的集成方式
+## 五、不同 AI 平台的集成方式
 
 ### ChatGPT (GPT-4/o)
 - 使用 Code Interpreter 插件，让 ChatGPT 直接读取 GitHub raw 链接

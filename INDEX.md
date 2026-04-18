@@ -57,7 +57,9 @@ AIMusicCreateKnowledgeBase/
 │   └── romantic.md
 │
 └── tools/
-    └── llm_guide.md             ← LLM 调用本库的详细说明
+    ├── llm_guide.md             ← LLM 调用本库的详细说明
+    ├── skill_harness.md         ← Agent 技能调用入口（Harness 模式）⭐
+    └── suno_v5.5_guide.md       ← Suno v5.5 平台创作指南
 ```
 
 ---
@@ -87,6 +89,7 @@ AIMusicCreateKnowledgeBase/
 | StylePrompt 模版、Suno prompt | `templates/style_prompts/INDEX.md` |
 | 歌词模版、Lyrics 结构 | `templates/lyrics/INDEX.md` |
 | 如何使用本库（LLM 操作手册） | `tools/llm_guide.md` |
+| Agent 技能调用入口（Harness 模式） | `tools/skill_harness.md` |
 
 ---
 
