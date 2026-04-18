@@ -31,6 +31,7 @@ AIMusicCreateKnowledgeBase/
 │   ├── edm/                     ← 电子舞曲
 │   ├── hiphop/                  ← 嘻哈/Rap（Hip-Hop & Rap）
 │   ├── rnb/                     ← R&B/灵魂乐
+│   ├── choral/                  ← 合唱（交响大合唱/多声部）
 │   ├── folk/                    ← 民谣
 │   ├── country/                 ← 乡村
 │   └── latin/                   ← 拉丁
@@ -72,6 +73,7 @@ AIMusicCreateKnowledgeBase/
 | 电音、EDM、舞曲、House、Trance | `genres/edm/README.md` |
 | 嘻哈、hiphop、hip-hop、rap、说唱、trap、drill | `genres/hiphop/README.md` |
 | R&B、灵魂乐、Soul、Neo-Soul | `genres/rnb/README.md` |
+| 合唱、choral、大合唱、交响合唱、多人合唱、多声部 | `genres/choral/README.md` |
 | 民谣、folk、吉他弹唱、治愈 | `genres/folk/README.md` |
 | 乡村、country、Nashville | `genres/country/README.md` |
 | 拉丁、Latin、Reggaeton、Bossa Nova | `genres/latin/README.md` |

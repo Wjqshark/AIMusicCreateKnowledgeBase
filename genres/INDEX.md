@@ -15,6 +15,7 @@
 | EDM | 电子舞曲 | 120–175 | 合成器、Drop、House、Trance | `edm/README.md` |
 | Hip-Hop & Rap | 嘻哈/Rap/说唱 | 70–100 | Trap、Drill、采样、Flow、押字 | `hiphop/README.md` |
 | R&B | 节奏蓝调 | 60–100 | Soul、Groove、性感、Neo-Soul | `rnb/README.md` |
+| Choral | 合唱 | 60–150 | 混声合唱、多声部、交响、史诗、仪式感 | `choral/README.md` |
 | Folk | 民谣 | 70–120 | 木吉他、叙事、治愈、自然 | `folk/README.md` |
 | Country | 乡村 | 80–140 | Nashville、班卓琴、故事、美国南方 | `country/README.md` |
 | Latin | 拉丁 | 80–130 | Reggaeton、Bossa Nova、Salsa、热情 | `latin/README.md` |
